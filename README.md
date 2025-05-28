@@ -1,2 +1,14 @@
-# pkaiwin-lucy-spin
-This is a real money-based spin game with custom bet, VIP mode, and daily profit control features.
+
+# Spin & Win Game 🎯
+
+A fun and rewarding spin game where players can win money or prizes!
+
+### 🌟 Features:
+- Daily spin with guaranteed gift
+- Jackpot chance
+- VIP Mode
+- Real deposit/withdraw via bKash/Nagad
+
+🔗 **Live Game:** https://yourusername.github.io/spin-game/
+
+© 2025 PokaiWin.com
